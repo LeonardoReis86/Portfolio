@@ -5,9 +5,9 @@ O projeto desenvolvimento será um portfolio simples responsivo.
 
 ## Estrutura Prévia para o Projeto:
 
-- [ ] Menu de Navegação;
+- [x] Menu de Navegação no header;
 
-- [ ] Imagem ou logo do header;
+- [x] Imagem ou logo do header;
 
 - [ ] Imagem de perfil main;
 
