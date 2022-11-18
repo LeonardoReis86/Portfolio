@@ -1,25 +1,12 @@
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
-<h1>Portfolio</h1>
+<h1 align="center" > Portfolio </h1>
 
-O projeto desenvolvimento será um portfolio simples responsivo.
+## Sobre 
+Esse projeto é um portfolio responsivo com informações ilustrativas e tem por finalidade, exercitar o uso do HTML e CSS de forma acessível e executando boas práticas.
 
-## Estrutura Prévia para o Projeto:
+<img src="https://github.com/LeonardoReis86/Portfolio/blob/main/Assets/imagem-portfolio.png" alt="portfolio"/></a>
 
-- [x] Menu de Navegação no header;
+## Testes
 
-- [x] Imagem ou logo do header;
-
-- [x] Imagem de perfil main;
-
-- [x] Descrição main;
-
-- [x] Experiências section;
-
-- [x] Formação section;
-
-- [x] Indice de navegação no footer;
-
-- [x] Redirecionamento para as redes sociais.
 
 ## Tecnologias Utilizadas:
 
@@ -28,3 +15,6 @@ O projeto desenvolvimento será um portfolio simples responsivo.
 
 <a href="https://www.w3schools.com/css/" target="_blank" >
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="50" height="50"/></a>
+
+As imagens HTML e CSS são links de referências.
+
