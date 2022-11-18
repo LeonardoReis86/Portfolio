@@ -3,10 +3,10 @@
 ## Sobre 
 Esse projeto é um portfolio responsivo com informações ilustrativas e tem por finalidade, exercitar o uso do HTML e CSS de forma acessível e executando boas práticas.
 
-<img src="https://github.com/LeonardoReis86/Portfolio/blob/main/Assets/imagem-portfolio.png" alt="portfolio"/></a>
+<img src="https://github.com/LeonardoReis86/Portfolio/blob/main/Assets/imagem-portfolio.png" alt="portfolio"/>
 
 ## Testes
-
+<img src="https://github.com/LeonardoReis86/Portfolio/blob/main/Assets/imagem-testes.png"/>
 
 ## Tecnologias Utilizadas:
 
