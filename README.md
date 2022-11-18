@@ -15,9 +15,9 @@ O projeto desenvolvimento será um portfolio simples responsivo.
 
 - [x] Experiências section;
 
-- [ ] Formação section;
+- [x] Formação section;
 
-- [ ] Indice de navegação no footer;
+- [x] Indice de navegação no footer;
 
 - [ ] Redirecionamento para as redes sociais.
 
